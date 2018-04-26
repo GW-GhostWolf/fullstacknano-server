@@ -19,10 +19,10 @@ I completed the following actions to configure my Linux server. You could use a 
 * Run database initialization python script
 
 ### To the Grader
-Server SSH: IP:2200
-Login: Grader
-Authorization: Key based sent separately
-Web Page: [http://IP/](http://IP/)
+Server SSH: IP:2200\
+Login: Grader\
+Authorization: Key based sent separately\
+Web Page: [http://IP/](http://google.com/)
 
 #### Non Udacity Resources that Helped
 * Page for configuring Apache with Flask
