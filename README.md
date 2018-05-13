@@ -19,11 +19,11 @@ I completed the following actions to configure my Linux server. You could use a 
 * Run database initialization python script
 
 ### To the Grader
-Server SSH: IP:2200\
+Server SSH: 18.221.22.163:2200\
 Login: Grader\
 Authorization: Key based sent separately\
-Web Page: [http://IP/](http://google.com/)
+Web Page: [http://18.221.22.163.xip.io/](http://18.221.22.163.xip.io/)
 
 #### Non Udacity Resources that Helped
-* Page for configuring Apache with Flask
-* PostreSQL documentation
+* [Configuring Apache with Flask](https://jackhalpinblog.wordpress.com/2016/08/27/getting-your-python-3-flask-app-to-run-on-apache/)
+* [PostreSQL documentation](https://www.postgresql.org/docs/10/static/index.html)
