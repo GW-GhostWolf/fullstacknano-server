@@ -67,6 +67,6 @@ Authorization: Key based sent separately\
 Web Page: [http://18.221.22.163.xip.io/](http://18.221.22.163.xip.io/)
 
 #### Non Udacity Resources that Helped
-* [Configurat Key Based Authentication](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server#disabling-password-authentication-on-your-server)
+* [Configure Key Based Authentication](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server#disabling-password-authentication-on-your-server)
 * [Configuring Apache with Flask](https://jackhalpinblog.wordpress.com/2016/08/27/getting-your-python-3-flask-app-to-run-on-apache/)
 * [PostreSQL documentation](https://www.postgresql.org/docs/10/static/index.html)
